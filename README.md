@@ -6,5 +6,16 @@ The goal of this repository is to improve our ability to perform data integratio
 
 Annotations are added to this repository and versioning is maintained by git.
 
+## ATAC-seq annotations
+
+They were created using biomart
+
+
+## RNA-seq annotations 
+
+ [GFF table](http://uswest.ensembl.org/info/data/ftp/index.html?redirect=no)
+
+
+
 
 
